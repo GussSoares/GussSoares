@@ -1,4 +1,4 @@
-### Hi there 👋 :sparkles:
+### Hello guys! This is my profile 👋😎
 
 <!--
 **GussSoares/GussSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
