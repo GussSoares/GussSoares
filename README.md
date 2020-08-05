@@ -2,7 +2,7 @@
 
 ## Hello guys! This is my profile 👋😎
 
-My name is gustavo, I'm a python 🐍 and Web 🖥️ developer and a beginner in Mobile Development. I'm a student in the 9th semester of Computer Science at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
+My name is gustavo, I'm a python 🐍 and Web 🖥️ developer and a beginner in Mobile Development. I'm a student in the 9th semester of Computer Science 🧑‍🎓 at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
 
 ## Skills 🥇🏅
 
@@ -10,6 +10,9 @@ My name is gustavo, I'm a python 🐍 and Web 🖥️ developer and a beginner i
 - [x] Django
 - [x] JavaScript
 - [x] Shell & Linux
+
+## Follow me 🙈
+<a class="btn-linkedin" href="https://www.linkedin.com/in/gustavo-soares-3a22b1176/">LinkedIn</a>
 
 <!-- 
 **GussSoares/GussSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
