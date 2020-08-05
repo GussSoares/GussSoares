@@ -6,10 +6,10 @@ My name is gustavo, I'm a python 🐍 and Web 🖥️ developer and a beginner i
 
 ## Skills 🥇🏅
 
-[x] Python
-[x] Django
-[x] JavaScript
-[x] Shell & Linux
+- [x] Python
+- [x] Django
+- [x] JavaScript
+- [x] Shell & Linux
 
 <!-- 
 **GussSoares/GussSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
