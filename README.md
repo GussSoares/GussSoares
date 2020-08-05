@@ -2,14 +2,14 @@
 
 ## Hello guys! This is my profile 👋😎
 
-My name is gustavo, I'm a python 🐍 and Web 🖥️ developer and a beginner in Mobile Development. I'm a student in the 9th semester of Computer Science 🧑‍🎓 at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
+My name is gustavo, I'm a Python 🐍 and Web 🖥️ Developer and a beginner in Mobile Development📱. I'm a student in the 9th semester of Computer Science 🧑‍🎓 at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
 
 ## Skills 🥇🏅
 
-- [x] Python
-- [x] Django
-- [x] JavaScript
-- [x] Shell & Linux
+- [x] Python 🐍
+- [x] Django 🐍
+- [x] JavaScript :sparkles:
+- [x] Shell & Linux 🎉🔒
 
 ## Follow me 🙈
 
