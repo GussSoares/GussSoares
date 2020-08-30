@@ -10,6 +10,7 @@ My name is gustavo, I'm a Python 🐍 and Web 🖥️ Developer and a beginner i
 - [x] Django 🐍
 - [x] JavaScript :sparkles:
 - [x] Shell & Linux 🎉🔒
+- [x] Learning Kotlin Android 📱
 - [ ] Learning React & React Native 🚀
 
 Always following Rocketseat news 🚀🟣
