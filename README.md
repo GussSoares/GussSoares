@@ -1,6 +1,10 @@
 <img align="right" width="300" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif" />
 
-## Hello guys! This is my profile 👋😎
+<a href="https://dev.to/gusssoares">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gustavo Soares's DEV Profile" height="30" width="30">
+</a>
+
+## Hello guys! This is my profile 👋😎 
 
 My name is gustavo, I'm a Python 🐍 and Web 🖥️ Developer and a beginner in Mobile Development📱. I'm a student in the 9th semester of Computer Science 🧑‍🎓 at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
 
