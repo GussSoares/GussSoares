@@ -8,10 +8,12 @@ My name is gustavo, I'm a Python 🐍 and Web 🖥️ Developer and a beginner i
 
 - [x] Python 🐍
 - [x] Django 🐍
-- [x] JavaScript :sparkles:
+- [x] JavaScript 🔥
 - [x] Shell & Linux 🎉🔒
 - [x] VueJS 🎨🖌️
 - [x] FastAPI ⚡
+- [x] PostgreSQL 🐘 
+- [x] MongoDB 🍃
 <!--- [x] Learning Kotlin Android 📱
 - [ ] Learning React & React Native 🚀 -->
 
