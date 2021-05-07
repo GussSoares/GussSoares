@@ -6,14 +6,20 @@ My name is gustavo, I'm a Python 🐍 and Web 🖥️ Developer and a beginner i
 
 ## Skills 🥇🏅
 
-- [x] Python 🐍
-- [x] Django 🐍
-- [x] JavaScript 🔥
-- [x] Shell & Linux 🎉🔒
-- [x] VueJS 🎨🖌️
-- [x] FastAPI ⚡
-- [x] PostgreSQL 🐘 
-- [x] MongoDB 🍃
+- [x] <img height="20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+- [x] <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+- [x] <img height="20" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+- [x] <img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 <!--- [x] Learning Kotlin Android 📱
 - [ ] Learning React & React Native 🚀 -->
 
@@ -21,10 +27,15 @@ Always following Rocketseat news 🚀🟣
 
 ## Follow me 🙈
 
-<a href="https://www.linkedin.com/in/gustavo-soares-3a22b1176/" rel="nofollow"><img src="https://camo.githubusercontent.com/051b52f54798fb5235c0627062db7c94c712a359/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c756361732d64652d6f6c6976656972612d6d657371756974612f266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&amp;logo=linkedin&amp;link=https://www.linkedin.com/in/gustavo-soares-3a22b1176/&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/gustavo-soares-3a22b1176/" rel="nofollow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width:100%;">
+</a>&Tab;
 <a href="https://dev.to/gusssoares">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gustavo Soares's DEV Profile" height="30" width="30">
-</a>
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Gustavo Soares's DEV Profile" style="max-width:100%;">
+</a>&Tab;
+<a href="https://www.instagram.com/gus_soares22/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gustavo Soares's Instagram Profile" style="max-width:100%;">
+</a>&Tab;
 
 <!-- 
 **GussSoares/GussSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
