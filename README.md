@@ -26,7 +26,7 @@ My name is gustavo, I'm a Python 🐍 and Web 🖥️ Developer and a beginner i
 <!--- [x] Learning Kotlin Android 📱
 - [ ] Learning React & React Native 🚀 -->
 
-Always following Rocketseat news 🚀🟣
+<!-- Always following Rocketseat news 🚀🟣 -->
 
 ## Follow me 🙈
 
