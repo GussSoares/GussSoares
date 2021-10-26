@@ -1,4 +1,5 @@
-<img align="right" width="300" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif" />
+<!-- <img align="right" width="300" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif" /> -->
+<a href="https://app.daily.dev/GussSoares"><img  align="right" src="https://api.daily.dev/devcards/a3d637ab65ee4410bd49f21c8fc210f3.png?r=1jh" width="300" alt="Gustavo Soares's Dev Card"/></a>
 
 ## Hello guys! This is my profile 👋😎 
 
